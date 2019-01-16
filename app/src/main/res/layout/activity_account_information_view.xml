@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".AccountInformationView"
     android:background="@color/graylight"
     android:orientation="vertical">
 
@@ -113,12 +113,14 @@
         </android.support.v7.widget.CardView>
     </RelativeLayout>
     <Button
+        android:id="@+id/contactBtn"
         android:layout_width="110dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
         android:text="CONTACT" />
     <Button
+        android:id="@+id/reportBtn"
         android:layout_width="110dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"

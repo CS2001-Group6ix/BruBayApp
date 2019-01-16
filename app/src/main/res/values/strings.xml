@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">bruBay</string>
-    <string name="main_activity_title">"@user_1718263"</string>
+    <string name="account_info_activity_title">"@user_1718263_og"</string>
+    <string name="temp_listing_activity_title">"Temporary Listings View"</string>
 </resources>
